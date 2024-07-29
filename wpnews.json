@@ -1,5 +1,5 @@
 {
-	"version" : "1.0.0",
-	"details_url" : "https://raw.githubusercontent.com/kreatornusa/wpnews/main/info-wpnews.html",
-	"download_url" : "https://github.com/kreatornusa/wpnews/raw/main/wpnews.zip"
+  "version": "1.2", // Versi terbaru dari tema Anda
+  "details_url": "https://github.com/kreatornusa/wpnews", // URL untuk detail pembaruan
+  "download_url": "https://github.com/kreatornusa/wpnews/archive/refs/heads/main.zip" // URL untuk mengunduh versi terbaru
 }
